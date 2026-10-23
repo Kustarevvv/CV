@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+
+# на случай локальной настройки AI-ассистентов - не для репозитория
+.claude/
+CLAUDE.md
+.cursor/
+.cursorrules
+.windsurfrules
